@@ -1,2 +1,2 @@
 # Linked-List
-Linked List Leetcode Problem solutions
+Linked List Leetcode Problems' solutions
